@@ -1,0 +1,14 @@
+/Users/jared/Projects/Coffee/Coffee/bin/Debug/netcoreapp2.2/Coffee.deps.json
+/Users/jared/Projects/Coffee/Coffee/bin/Debug/netcoreapp2.2/Coffee.runtimeconfig.json
+/Users/jared/Projects/Coffee/Coffee/bin/Debug/netcoreapp2.2/Coffee.runtimeconfig.dev.json
+/Users/jared/Projects/Coffee/Coffee/bin/Debug/netcoreapp2.2/Coffee.dll
+/Users/jared/Projects/Coffee/Coffee/bin/Debug/netcoreapp2.2/Coffee.pdb
+/Users/jared/Projects/Coffee/Coffee/obj/Debug/netcoreapp2.2/Coffee.csproj.CoreCompileInputs.cache
+/Users/jared/Projects/Coffee/Coffee/obj/Debug/netcoreapp2.2/Coffee.RazorAssemblyInfo.cache
+/Users/jared/Projects/Coffee/Coffee/obj/Debug/netcoreapp2.2/Coffee.RazorAssemblyInfo.cs
+/Users/jared/Projects/Coffee/Coffee/obj/Debug/netcoreapp2.2/Coffee.AssemblyInfoInputs.cache
+/Users/jared/Projects/Coffee/Coffee/obj/Debug/netcoreapp2.2/Coffee.AssemblyInfo.cs
+/Users/jared/Projects/Coffee/Coffee/obj/Debug/netcoreapp2.2/Coffee.RazorTargetAssemblyInfo.cache
+/Users/jared/Projects/Coffee/Coffee/obj/Debug/netcoreapp2.2/Coffee.dll
+/Users/jared/Projects/Coffee/Coffee/obj/Debug/netcoreapp2.2/Coffee.pdb
+/Users/jared/Projects/Coffee/Coffee/obj/Debug/netcoreapp2.2/Coffee.csprojAssemblyReference.cache

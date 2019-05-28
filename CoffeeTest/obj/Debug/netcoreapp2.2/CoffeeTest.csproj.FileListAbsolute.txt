@@ -1,0 +1,17 @@
+/Users/jared/Projects/Coffee/CoffeeTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jared/Projects/Coffee/CoffeeTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/jared/Projects/Coffee/CoffeeTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/jared/Projects/Coffee/CoffeeTest/bin/Debug/netcoreapp2.2/CoffeeTest.deps.json
+/Users/jared/Projects/Coffee/CoffeeTest/bin/Debug/netcoreapp2.2/CoffeeTest.runtimeconfig.json
+/Users/jared/Projects/Coffee/CoffeeTest/bin/Debug/netcoreapp2.2/CoffeeTest.runtimeconfig.dev.json
+/Users/jared/Projects/Coffee/CoffeeTest/bin/Debug/netcoreapp2.2/CoffeeTest.dll
+/Users/jared/Projects/Coffee/CoffeeTest/bin/Debug/netcoreapp2.2/CoffeeTest.pdb
+/Users/jared/Projects/Coffee/CoffeeTest/bin/Debug/netcoreapp2.2/Coffee.dll
+/Users/jared/Projects/Coffee/CoffeeTest/bin/Debug/netcoreapp2.2/Coffee.pdb
+/Users/jared/Projects/Coffee/CoffeeTest/obj/Debug/netcoreapp2.2/CoffeeTest.csprojAssemblyReference.cache
+/Users/jared/Projects/Coffee/CoffeeTest/obj/Debug/netcoreapp2.2/CoffeeTest.csproj.CoreCompileInputs.cache
+/Users/jared/Projects/Coffee/CoffeeTest/obj/Debug/netcoreapp2.2/CoffeeTest.AssemblyInfoInputs.cache
+/Users/jared/Projects/Coffee/CoffeeTest/obj/Debug/netcoreapp2.2/CoffeeTest.AssemblyInfo.cs
+/Users/jared/Projects/Coffee/CoffeeTest/obj/Debug/netcoreapp2.2/CoffeeTest.csproj.CopyComplete
+/Users/jared/Projects/Coffee/CoffeeTest/obj/Debug/netcoreapp2.2/CoffeeTest.dll
+/Users/jared/Projects/Coffee/CoffeeTest/obj/Debug/netcoreapp2.2/CoffeeTest.pdb
