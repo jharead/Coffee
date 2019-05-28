@@ -1,10 +1,10 @@
-﻿using System;
-namespace Coffee.Model
+﻿namespace Coffee.Models
 {
-    public class coffeelist
+    public class CoffeeItem
     {
-        public coffeelist()
-        {
-        }
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Flavor { get; set; }
+        public string Size { get; set; }
     }
 }
